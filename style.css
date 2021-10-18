@@ -1,0 +1,22 @@
+body{
+    color:white;
+    background-color: lightpink;
+    font-family: fantasy;
+}
+
+.heading{
+width: 80%;
+font-size: 22px;
+color: rgb(200, 252, 186);
+}
+
+
+.nameofobjects{
+    color: rgb(184, 243, 225);
+}
+
+#camera{
+border: 2px dashed black;
+width: 350px;
+height: 300px;
+}
